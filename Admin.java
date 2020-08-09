@@ -1,6 +1,3 @@
-import java.util.List ;
+package vip.fcat.demo ;
 public class Admin implements java.io.Serializable {
-	private List<Emp> emps ;
-	private String aid ;
-	private List<Action> allActions ;
 }
